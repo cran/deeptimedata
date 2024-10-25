@@ -1,0 +1,11 @@
+2549ba308e5b6731574f0b742ef4bc64 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+cbb65f96538a985c2ec3f4194e152f6f *NEWS.md
+70c59ae914ec4be08207420fde2f20ae *R/data.R
+1b54137d4ae82b40a266122de6d1201b *R/deeptimedata-package.R
+bf0bfc041cbb4b788778c6b6beee0c03 *README.md
+60eb01e6b135ce17c80c5d3e83b9b0c5 *data/geo_grobs.rda
+78ba04f238659ceb2d6b1dfc5041b869 *inst/CITATION
+3229fdf6ba855e7f8aee5c580b34c078 *man/deeptimedata-package.Rd
+530e85284f0f2f70572028f3194cc80c *man/figures/logo.png
+f3e16a62cecf6540a19a7027ae0db835 *man/geo_grobs.Rd
